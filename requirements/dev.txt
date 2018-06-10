@@ -1,0 +1,4 @@
+# dev.txt
+
+-r base.txtdjango-debug-toolbar
+selenium
